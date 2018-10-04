@@ -1,6 +1,6 @@
 # graphic_town
 
-Contains the objects modeled and shaded according to my own design. 
+The CS course project that creates a graphic town. Contains the objects modeled and shaded according to my own design. 
 
 ## Viewing options
 The project enables users to change the view direction and mode
